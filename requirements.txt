@@ -5,4 +5,3 @@ pydeck
 streamlit
 mysql-connector-python
 tabulate
-mysqlclient
